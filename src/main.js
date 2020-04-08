@@ -12,7 +12,7 @@ Vue.use(ElementUI);
 
 /* // 配置全局默认样式&图标（@代表src目录
 
-import '@/assets/font/iconfont.css' */
+import '@/assets/font/iconfont.css'*/
 import '@/assets/css/reset.scss'
 new Vue({
     router,
